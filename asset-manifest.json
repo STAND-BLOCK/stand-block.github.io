@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.79748031.css",
-    "main.js": "/static/js/main.5ab6b486.js",
+    "main.css": "/static/css/main.0a26b230.css",
+    "main.js": "/static/js/main.d4c2d738.js",
     "static/js/787.af40fe9b.chunk.js": "/static/js/787.af40fe9b.chunk.js",
     "static/media/nftfirst_img_1.png": "/static/media/nftfirst_img_1.44cb0f0094c7cb3b8de1.png",
     "static/media/team_img_1.png": "/static/media/team_img_1.2a303f594575734accb9.png",
@@ -41,12 +41,12 @@
     "static/media/roadmap_icon_3.png": "/static/media/roadmap_icon_3.6e98a2357ce848d1bbc3.png",
     "static/media/roadmap_icon_4.png": "/static/media/roadmap_icon_4.ce9d5d318db10e7f8706.png",
     "index.html": "/index.html",
-    "main.79748031.css.map": "/static/css/main.79748031.css.map",
-    "main.5ab6b486.js.map": "/static/js/main.5ab6b486.js.map",
+    "main.0a26b230.css.map": "/static/css/main.0a26b230.css.map",
+    "main.d4c2d738.js.map": "/static/js/main.d4c2d738.js.map",
     "787.af40fe9b.chunk.js.map": "/static/js/787.af40fe9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79748031.css",
-    "static/js/main.5ab6b486.js"
+    "static/css/main.0a26b230.css",
+    "static/js/main.d4c2d738.js"
   ]
 }
